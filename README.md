@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Bharathi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-code&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-code" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tamil-code.github.io](https://tamil-code.github.io)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **tech related stuff**
 
 - 📫 How to reach me **tamilbharathireachmeout@gmail.com**
 
