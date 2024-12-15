@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamil Bharathi</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Wanna be Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-code&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-code" /> </p>
 
